@@ -1,0 +1,27 @@
+/*Centra horizontalmente la imagen insertada*/
+.centrarimg{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: none;
+}
+
+/*Centra horizontalmente el texto y lo deja en negrita*/
+.titulolect{
+	text-align: center;
+	font-weight: bold;
+}
+
+/*estilo para las referencias de las imagenes*/
+.refimg{
+	text-align: center;
+	font-style: italic;
+	font-size: small;
+}
+
+/*estilo para los parrafos de las lecturas*/
+.parrafo{
+	text-align: justify;
+	
+
+}
