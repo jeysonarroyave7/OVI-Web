@@ -25,3 +25,8 @@
     /*headerTitleAlign*/
     text-align: right;
 }
+
+aside {
+    float: right;
+    width: 15%;
+}
